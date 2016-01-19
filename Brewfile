@@ -166,7 +166,7 @@ brew terraform
 brew texinfo
 brew tig
 brew tree
-brew weechat --with-ruby --with-python --with-perl
+brew weechat --with-ruby --with-python --with-perl --with-ruby --with-python --with-perl
 brew wget
 brew xcproj
 brew xctool
