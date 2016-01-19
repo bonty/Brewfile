@@ -84,6 +84,7 @@ brew bitlbee
 brew boost
 brew cairo
 brew cask
+brew clib
 brew cmake
 brew cmigemo
 brew coreutils
