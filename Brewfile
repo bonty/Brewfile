@@ -78,6 +78,8 @@ brew apktool
 brew autoconf
 brew automake
 brew aws-elasticache
+brew aws-elasticbeanstalk
+brew awscli
 brew binutils
 brew bison
 brew bitlbee
