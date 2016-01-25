@@ -151,6 +151,7 @@ brew perl-build
 brew pixman
 brew pkg-config
 brew plenv
+brew postgresql
 brew protobuf
 brew pyenv
 brew rbenv
