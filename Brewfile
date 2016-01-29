@@ -145,8 +145,10 @@ brew node
 brew omnisharp-server
 brew oniguruma
 brew openssl
+brew packer
 brew pango
 brew pcre
+brew percona-toolkit
 brew perl-build
 brew pixman
 brew pkg-config
