@@ -31,7 +31,6 @@ cask google-chrome
 cask google-cloud-sdk
 cask google-japanese-ime
 cask heroku-toolbelt
-cask honer
 cask istat-menus
 cask iterm2
 cask java
