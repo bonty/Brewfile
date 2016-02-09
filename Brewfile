@@ -47,6 +47,7 @@ cask spotify
 cask steam
 cask td-agent
 cask texturepacker
+cask tunnelblick
 cask unity
 cask vagrant
 cask virtualbox
