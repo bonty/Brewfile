@@ -113,6 +113,7 @@ brew glib
 brew gmp
 brew gnu-sed
 brew gnutls
+brew go
 brew gobject-introspection
 brew gradle
 brew harfbuzz
