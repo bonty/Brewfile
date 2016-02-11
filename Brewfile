@@ -103,6 +103,7 @@ brew findutils
 brew fontconfig
 brew fontforge
 brew freetype
+brew fzf
 brew gdbm
 brew gettext
 brew gibo
@@ -148,6 +149,7 @@ brew openssl
 brew packer
 brew pango
 brew pcre
+brew peco
 brew percona-toolkit
 brew perl-build
 brew pixman
