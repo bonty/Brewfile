@@ -21,7 +21,6 @@ cask box-sync
 cask charles
 cask chefdk
 cask coteditor
-cask crashlytics
 cask dropbox
 cask firefox
 cask flash
@@ -62,7 +61,6 @@ brew jad
 tap homebrew/brewdler
 
 tap macoshita/custom
-brew tmux-patched
 
 tap rcmdnk/file
 brew brew-file
@@ -91,6 +89,7 @@ brew coreutils
 brew csshx
 brew czmq
 brew dex2jar
+brew direnv
 brew dnsmasq
 brew docker
 brew docker-compose
@@ -171,6 +170,7 @@ brew sqlcipher
 brew terraform
 brew texinfo
 brew tig
+brew tmux
 brew tree
 brew weechat --with-ruby --with-python --with-perl --with-ruby --with-python --with-perl
 brew wget
@@ -180,6 +180,9 @@ brew xz
 brew z
 brew zeromq
 brew zsh --without-etcdir
+
+# Cask applications
+cask crashlytics
 
 # App Store applications
 appstore Clear
