@@ -108,6 +108,7 @@ brew gettext
 brew gibo
 brew git
 brew git-flow
+brew git-secrets
 brew glib
 brew gmp
 brew gnu-sed
