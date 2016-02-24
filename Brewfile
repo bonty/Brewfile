@@ -116,6 +116,7 @@ brew gnutls
 brew go
 brew gobject-introspection
 brew gradle
+brew graphviz
 brew harfbuzz
 brew hub
 brew icu4c
