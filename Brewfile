@@ -69,6 +69,7 @@ tap sanemat/font
 brew ricty
 
 # Other Homebrew packages
+brew amazon-ecs-cli
 brew android-ndk
 brew android-sdk
 brew ant
