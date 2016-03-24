@@ -51,6 +51,7 @@ cask unity
 cask vagrant
 cask virtualbox
 cask vlc
+cask wercker-cli
 cask wireshark
 cask xamarin-studio
 cask xquartz
