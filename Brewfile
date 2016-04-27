@@ -75,6 +75,7 @@ brew android-ndk
 brew android-sdk
 brew ant
 brew apktool
+brew aspell
 brew autoconf
 brew automake
 brew aws-elasticache
@@ -98,6 +99,7 @@ brew docker-compose
 brew docker-machine
 brew docker-swarm
 brew ec2-api-tools
+brew editorconfig
 brew emacs --with-cocoa --with-gnutls
 brew fdupes
 brew findutils
@@ -145,6 +147,7 @@ brew mobile-shell
 brew mono
 brew mysql
 brew nettle
+brew nginx
 brew nkf
 brew nodebrew
 brew omnisharp-server
@@ -176,6 +179,7 @@ brew texinfo
 brew tig
 brew tmux
 brew tree
+brew v8-315
 brew weechat --with-ruby --with-python --with-perl --with-ruby --with-python --with-perl
 brew wget
 brew xcproj
