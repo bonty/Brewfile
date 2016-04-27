@@ -146,7 +146,7 @@ brew mono
 brew mysql
 brew nettle
 brew nkf
-brew node
+brew nodebrew
 brew omnisharp-server
 brew oniguruma
 brew openssl
