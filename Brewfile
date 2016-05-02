@@ -42,6 +42,7 @@ cask scroll-reverser
 cask seil
 cask sequel-pro
 cask skype
+cask smoothmouse
 cask sourcetree
 cask spotify
 cask steam
@@ -189,9 +190,6 @@ brew xz
 brew z
 brew zeromq
 brew zsh --without-etcdir
-
-# Cask applications
-cask crashlytics
 
 # App Store applications
 appstore Clear
