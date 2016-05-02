@@ -38,6 +38,7 @@ cask kindle
 cask league-of-legends
 cask libreoffice
 cask mono-mdk
+cask scroll-reverser
 cask seil
 cask sequel-pro
 cask skype
