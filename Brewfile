@@ -166,7 +166,7 @@ brew plenv
 brew postgresql
 brew protobuf
 brew pyenv
-brew qt5
+brew qt55
 brew rbenv
 brew rbenv-gemset
 brew readline
