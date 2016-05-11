@@ -2,6 +2,7 @@
 # tap repositories and their packages
 
 tap bonty/omnisharpserver
+brew omnisharp-server
 
 tap caskroom/cask
 brew brew-cask
@@ -29,7 +30,6 @@ cask genymotion
 cask google-chrome
 cask google-cloud-sdk
 cask google-japanese-ime
-cask heroku-toolbelt
 cask istat-menus
 cask iterm2
 cask java
@@ -152,7 +152,6 @@ brew nettle
 brew nginx
 brew nkf
 brew nodebrew
-brew omnisharp-server
 brew oniguruma
 brew openssl
 brew packer
@@ -167,6 +166,7 @@ brew plenv
 brew postgresql
 brew protobuf
 brew pyenv
+brew qt5
 brew rbenv
 brew rbenv-gemset
 brew readline
@@ -190,6 +190,9 @@ brew xz
 brew z
 brew zeromq
 brew zsh --without-etcdir
+
+# Cask applications
+cask heroku-toolbelt
 
 # App Store applications
 appstore Clear
