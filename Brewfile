@@ -20,7 +20,6 @@ cask bettertouchtool
 cask blender
 cask box-sync
 cask charles
-cask chefdk
 cask coteditor
 cask dropbox
 cask firefox
@@ -49,11 +48,11 @@ cask sourcetree
 cask spotify
 cask steam
 cask td-agent
-cask texturepacker
 cask tunnelblick
 cask unity
 cask vagrant
 cask virtualbox
+cask vivaldi
 cask vlc
 cask wercker-cli
 cask wireshark
@@ -192,9 +191,6 @@ brew xz
 brew z
 brew zeromq
 brew zsh --without-etcdir
-
-# Cask applications
-cask heroku-toolbelt
 
 # App Store applications
 appstore Clear
