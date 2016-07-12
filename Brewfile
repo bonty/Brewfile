@@ -19,7 +19,6 @@ cask atom
 cask bettertouchtool
 cask box-sync
 cask charles
-cask chefdk
 cask coteditor
 cask dropbox
 cask firefox
