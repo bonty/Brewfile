@@ -9,17 +9,17 @@ brew brew-cask
 cask 0xed
 cask 1password
 cask adobe-air
-cask adobe-creative-cloud
 cask adobe-reader
 cask alfred
+cask amazon-music
 cask amethyst
 cask android-studio
 cask appcleaner
 cask atom
 cask bettertouchtool
-cask blender
 cask box-sync
 cask charles
+cask chefdk
 cask coteditor
 cask dropbox
 cask firefox
@@ -56,7 +56,6 @@ cask vivaldi
 cask vlc
 cask wercker-cli
 cask wireshark
-cask xamarin-studio
 cask xquartz
 
 tap homebrew/binary
