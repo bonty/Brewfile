@@ -5,7 +5,6 @@ tap bonty/omnisharpserver
 brew omnisharp-server
 
 tap caskroom/cask
-brew brew-cask
 cask 0xed
 cask 1password
 cask adobe-air
@@ -15,6 +14,7 @@ cask amazon-music
 cask amethyst
 cask android-studio
 cask appcleaner
+cask arduino
 cask atom
 cask bettertouchtool
 cask box-sync
@@ -53,7 +53,6 @@ cask vagrant
 cask virtualbox
 cask vivaldi
 cask vlc
-cask wercker-cli
 cask wireshark
 cask xquartz
 
@@ -70,6 +69,9 @@ brew brew-file
 tap sanemat/font
 brew ricty
 
+tap wercker/wercker
+brew wercker-cli
+
 # Other Homebrew packages
 brew amazon-ecs-cli
 brew android-ndk
@@ -84,6 +86,7 @@ brew binutils
 brew bison
 brew bitlbee
 brew boost
+brew brew-cask
 brew cairo
 brew cask
 brew clib
