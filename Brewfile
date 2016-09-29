@@ -96,6 +96,7 @@ brew coreutils
 brew csshx
 brew czmq
 brew dex2jar
+brew digdag
 brew direnv
 brew dnsmasq
 brew docker
@@ -105,6 +106,7 @@ brew docker-swarm
 brew ec2-api-tools
 brew editorconfig
 brew emacs --with-cocoa --with-gnutls
+brew embulk
 brew fdupes
 brew findutils
 brew fontconfig
