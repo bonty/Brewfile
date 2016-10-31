@@ -22,7 +22,6 @@ cask charles
 cask coteditor
 cask dropbox
 cask firefox
-cask flash
 cask flip4mac
 cask genymotion
 cask google-chrome
@@ -51,6 +50,7 @@ cask tunnelblick
 cask unity
 cask vagrant
 cask virtualbox
+cask visual-studio-code
 cask vivaldi
 cask vlc
 cask wireshark
@@ -81,6 +81,7 @@ brew apktool
 brew aspell
 brew autoconf
 brew automake
+brew autossh
 brew aws-elasticache
 brew binutils
 brew bison
@@ -194,6 +195,9 @@ brew xz
 brew z
 brew zeromq
 brew zsh --without-etcdir
+
+# Cask applications
+cask flash
 
 # App Store applications
 appstore Clear
