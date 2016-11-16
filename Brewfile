@@ -132,6 +132,7 @@ brew harfbuzz
 brew hub
 brew icu4c
 brew imagemagick
+brew jmeter
 brew jpeg
 brew jq
 brew libevent
