@@ -20,6 +20,7 @@ cask bettertouchtool
 cask box-sync
 cask charles
 cask coteditor
+cask docker
 cask dropbox
 cask firefox
 cask flip4mac
@@ -188,7 +189,6 @@ brew tig
 brew tmux
 brew tree
 brew v8-315
-brew weechat --with-ruby --with-python --with-perl --with-ruby --with-python --with-perl
 brew wget
 brew xcproj
 brew xctool
