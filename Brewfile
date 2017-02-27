@@ -11,7 +11,6 @@ cask adobe-air
 cask adobe-reader
 cask alfred
 cask amazon-music
-cask amethyst
 cask android-studio
 cask appcleaner
 cask arduino
@@ -23,11 +22,15 @@ cask coteditor
 cask docker
 cask dropbox
 cask firefox
+cask flash-player
 cask flip4mac
 cask genymotion
 cask google-chrome
 cask google-cloud-sdk
 cask google-japanese-ime
+cask hyper
+cask hyperswitch
+cask insomnia
 cask istat-menus
 cask iterm2
 cask java
@@ -36,6 +39,7 @@ cask kindle
 cask league-of-legends
 cask libreoffice
 cask mono-mdk
+cask moom
 cask mysqlworkbench
 cask ngrok
 cask scroll-reverser
@@ -58,7 +62,6 @@ cask wireshark
 cask xquartz
 
 tap homebrew/binary
-brew jad
 
 tap homebrew/brewdler
 
@@ -101,10 +104,6 @@ brew dex2jar
 brew digdag
 brew direnv
 brew dnsmasq
-brew docker
-brew docker-compose
-brew docker-machine
-brew docker-swarm
 brew ec2-api-tools
 brew editorconfig
 brew emacs --with-cocoa --with-gnutls
@@ -132,7 +131,8 @@ brew graphviz
 brew harfbuzz
 brew hub
 brew icu4c
-brew imagemagick
+brew imagemagick@6
+brew jad
 brew jmeter
 brew jpeg
 brew jq
@@ -140,6 +140,7 @@ brew libevent
 brew libffi
 brew libgcrypt
 brew libgpg-error
+brew libmaxminddb
 brew libpng
 brew libsodium
 brew libtasn1
@@ -173,6 +174,8 @@ brew plenv
 brew postgresql
 brew protobuf
 brew pyenv
+brew pyenv-virtualenv
+brew pyenv-virtualenvwrapper
 brew qt55
 brew rbenv
 brew rbenv-gemset
@@ -197,11 +200,7 @@ brew z
 brew zeromq
 brew zsh --without-etcdir
 
-# Cask applications
-cask flash
-
 # App Store applications
-appstore Clear
 appstore Dash
 appstore Deckset
 appstore GarageBand
