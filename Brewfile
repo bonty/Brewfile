@@ -36,7 +36,6 @@ cask iterm2
 cask java
 cask karabiner
 cask kindle
-cask league-of-legends
 cask libreoffice
 cask mono-mdk
 cask moom
