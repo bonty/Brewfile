@@ -24,7 +24,6 @@ cask firefox
 cask flash-player
 cask flip4mac
 cask genymotion
-cask gitify
 cask google-chrome
 cask google-japanese-ime
 cask hyperswitch
