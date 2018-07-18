@@ -117,7 +117,6 @@ brew pango
 brew pcre
 brew pcre2
 brew peco
-brew percona-toolkit
 brew perl-build
 brew pinentry
 brew pixman
@@ -147,7 +146,6 @@ brew sqlite
 brew terraform
 brew texinfo
 brew tig
-brew tmux
 brew tree
 brew utf8proc
 brew v8@3.15
@@ -161,7 +159,6 @@ brew xz
 brew yarn --without-node
 brew z
 brew zeromq
-brew zsh --without-etcdir
 
 tap homebrew/binary
 
