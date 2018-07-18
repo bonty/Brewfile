@@ -186,6 +186,7 @@ cask atom
 cask charles
 cask docker
 cask firefox
+cask flux
 cask gitup
 cask google-japanese-ime
 cask hyperswitch
