@@ -16,7 +16,6 @@ brew bison
 brew boost
 brew cairo
 brew carthage
-brew cask
 brew clib
 brew cmake
 brew cmigemo
@@ -25,13 +24,13 @@ brew csshx
 brew ctags
 brew czmq
 brew dex2jar
+brew diff-so-fancy
 brew digdag
 brew direnv
 brew dnsmasq
 brew docker-swarm
 brew ec2-api-tools
 brew editorconfig
-brew emacs --with-cocoa
 brew embulk
 brew fdupes
 brew ffmpeg
@@ -135,13 +134,12 @@ brew rbenv
 brew rbenv-binstubs
 brew rbenv-gemset
 brew readline
-brew reattach-to-user-namespace
 brew redis
 brew rmtrash
 brew ruby-build
 brew shared-mime-info
 brew source-highlight
-brew sqlcipher
+brew sphinx-doc
 brew sqlite
 brew terraform
 brew texinfo
@@ -156,7 +154,7 @@ brew xcproj
 brew xctool
 brew xvid
 brew xz
-brew yarn --without-node
+brew yarn
 brew z
 brew zeromq
 
@@ -181,11 +179,11 @@ tap homebrew/cask
 cask 0xed
 cask adobe-air
 cask alfred
-cask appcleaner
-cask atom
-cask charles
-cask docker
-cask firefox
+cask android-studio
+cask arduino
+cask box-sync
+cask discord
+cask dropbox
 cask flux
 cask gitup
 cask google-japanese-ime
@@ -215,17 +213,16 @@ tap rjcoelho/boneyard
 brew dynamodb-local
 
 tap sanemat/font
-brew ricty
 
 # Other Cask applications
 cask 1password
 cask adobe-reader
-cask android-studio
-cask arduino
-cask box-sync
-cask discord
-cask dropbox
-cask flash-player
+cask android-sdk
+cask appcleaner
+cask atom
+cask charles
+cask docker
+cask firefox
 cask font-hack
 cask google-chrome
 cask gpgtools
@@ -245,27 +242,24 @@ cask vivaldi
 cask wireshark
 
 # App Store applications
+appstore 973134470 Be Focused (1.7)
 appstore 1091189122 Bear (1.5.5)
 appstore 847496013 Deckset (1.8.5)
-appstore 406056744 Evernote (7.2.2)
+appstore 406056744 Evernote (7.2.3)
 appstore 682658836 GarageBand (10.3.1)
 appstore 467939042 Growl (2.1.3)
 appstore 490085255 Gyazo (1.0.2)
 appstore 430798174 HazeOver (1.7.9)
 appstore 408981434 iMovie (10.1.9)
 appstore 409183694 Keynote (8.1)
-appstore 539883307 LINE (5.8.0)
+appstore 539883307 LINE (5.9.0)
 appstore 1063631769 Medis (0.6.0)
 appstore 409203825 Numbers (5.1)
 appstore 409201541 Pages (7.1)
 appstore 407963104 Pixelmator (3.7.3)
-appstore 568494494 Pocket (1.7.9)
 appstore 445189367 PopClip (1.5.8)
 appstore 880001334 Reeder (3.1.2)
 appstore 425955336 Skitch (2.8.2)
 appstore 425424353 The Unarchiver (4.0.0)
 appstore 403388562 Transmit (4.4.13)
-appstore 1278508951 Trello (2.10.4)
-appstore 485812721 TweetDeck (3.9.889)
-appstore 410628904 Wunderlist (3.4.8)
 appstore 497799835 Xcode (9.4.1)
