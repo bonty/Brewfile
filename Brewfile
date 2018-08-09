@@ -165,8 +165,7 @@ tap homebrew/brewdler
 tap homebrew/cask-drivers
 
 tap homebrew/cask-fonts
-cask font-fira-code
-cask font-hack-nerd-font
+cask font-hack
 
 tap homebrew/cask-versions
 cask google-chrome-canary
@@ -177,30 +176,26 @@ tap homebrew/versions
 
 tap homebrew/cask
 cask 0xed
-cask adobe-air
 cask alfred
 cask android-studio
 cask arduino
-cask box-sync
-cask discord
-cask dropbox
-cask flux
+cask charles
+cask docker
+cask firefox
 cask gitup
 cask google-japanese-ime
-cask hyperswitch
-cask iterm2
-cask java
-cask mono-mdk
-cask mysqlworkbench
+cask istat-menus
+cask jad
+cask karabiner-elements
+cask moom
 cask postman
 cask rubymine
 cask sketch
-cask sourcetree
+cask spotify
 cask steam
-cask vagrant
-cask visual-studio-code
-cask vlc
-cask xquartz
+cask virtualbox
+cask vivaldi
+cask wireshark
 
 tap heroku/brew
 
@@ -216,50 +211,42 @@ tap sanemat/font
 
 # Other Cask applications
 cask 1password
-cask adobe-reader
 cask android-sdk
 cask appcleaner
 cask atom
-cask charles
-cask docker
-cask firefox
-cask font-hack
+cask discord
+cask dropbox
+cask font-hack-nerd-font
 cask google-chrome
 cask gpgtools
-cask istat-menus
-cask jad
-cask karabiner-elements
-cask moom
+cask iterm2
+cask java
+cask mono-mdk
 cask ngrok
 cask qbserve
 cask sequel-pro
 cask skype
-cask spotify
 cask sqlitebrowser
 cask td-agent
-cask virtualbox
-cask vivaldi
-cask wireshark
+cask visual-studio-code
+cask vlc
 
 # App Store applications
 appstore 973134470 Be Focused (1.7)
 appstore 1091189122 Bear (1.5.5)
 appstore 847496013 Deckset (1.8.5)
-appstore 406056744 Evernote (7.2.3)
 appstore 682658836 GarageBand (10.3.1)
-appstore 467939042 Growl (2.1.3)
 appstore 490085255 Gyazo (1.0.2)
 appstore 430798174 HazeOver (1.7.9)
 appstore 408981434 iMovie (10.1.9)
 appstore 409183694 Keynote (8.1)
-appstore 539883307 LINE (5.9.0)
+appstore 539883307 LINE (5.9.2)
 appstore 1063631769 Medis (0.6.0)
 appstore 409203825 Numbers (5.1)
 appstore 409201541 Pages (7.1)
 appstore 407963104 Pixelmator (3.7.3)
 appstore 445189367 PopClip (1.5.8)
 appstore 880001334 Reeder (3.1.2)
-appstore 425955336 Skitch (2.8.2)
 appstore 425424353 The Unarchiver (4.0.0)
 appstore 403388562 Transmit (4.4.13)
 appstore 497799835 Xcode (9.4.1)
