@@ -180,26 +180,24 @@ cask alfred
 cask android-studio
 cask arduino
 cask charles
-cask docker
-cask firefox
+cask discord
+cask dropbox
 cask gitup
 cask google-japanese-ime
 cask istat-menus
 cask jad
 cask karabiner-elements
-cask moom
-cask postman
-cask rubymine
-cask sketch
-cask spotify
+cask ngrok
+cask qbserve
+cask sequel-pro
+cask skype
 cask steam
 cask virtualbox
 cask vivaldi
 cask wireshark
 
 tap heroku/brew
-
-tap macoshita/custom
+brew heroku-node
 
 tap rcmdnk/file
 brew brew-file
@@ -207,25 +205,24 @@ brew brew-file
 tap rjcoelho/boneyard
 brew dynamodb-local
 
-tap sanemat/font
-
 # Other Cask applications
 cask 1password
 cask android-sdk
 cask appcleaner
 cask atom
-cask discord
-cask dropbox
+cask cheatsheet
+cask docker
+cask firefox
 cask font-hack-nerd-font
 cask google-chrome
 cask gpgtools
 cask iterm2
 cask java
-cask mono-mdk
-cask ngrok
-cask qbserve
-cask sequel-pro
-cask skype
+cask moom
+cask postman
+cask rubymine
+cask sketch
+cask spotify
 cask sqlitebrowser
 cask td-agent
 cask visual-studio-code
